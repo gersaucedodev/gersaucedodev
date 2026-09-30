@@ -18,7 +18,6 @@ Mi foco está en convertir tareas manuales y repetitivas en flujos confiables: e
 - 🔧 Soporte IT: diagnóstico de hardware, instalación de sistemas, correo corporativo
 - ⚙️ Automatización de workflows con **n8n**
 - 🗄️ Bases de datos y backend con **Node.js**, **Prisma**, **PostgreSQL** y **MySQL**
-- 🌱 Actualmente aprendiendo: [completar]
 
 ---
 
