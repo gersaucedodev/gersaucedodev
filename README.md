@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-103E65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:germansau96@gmail.com"><img src="https://img.shields.io/badge/Email-103E65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -54,8 +53,8 @@ Mi foco está en convertir tareas manuales y repetitivas en flujos confiables: e
 ### 📊 Actividad
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Lenguajes más usados">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gersaucedodev&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersaucedodev&layout=compact&hide_border=true" alt="Lenguajes más usados">
 </p>
 
 ---
